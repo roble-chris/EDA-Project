@@ -1,9 +1,6 @@
 ![title](county.jpg)
-# Project1_Data_Analysis
-This project is centered around exploratory data 
-analysis (EDA) techniques and statistical analysis, 
-as well as modeling data using linear regression.
-
-In the pdf file called 'EDA-Project' you will 
-find all information you need concerning the tasks 
-of the project.
+***
+The following project analyses House Sales data taken from King County between 2014-2015. The main objective
+is to predict the house pricing based on several given features to so give recommendations to potential home sellers and buyers.
+The methodology covers all steps of a [DATA SCIENCE LIFE CYCLE](https://www.educba.com/data-science-lifecycle/) in order to achieve the objective. The applied model for prediction is conducted by means of multinear regression.
+***
