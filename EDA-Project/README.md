@@ -1,3 +1,4 @@
+![title](county.jpg)
 # Project1_Data_Analysis
 This project is centered around exploratory data 
 analysis (EDA) techniques and statistical analysis, 
