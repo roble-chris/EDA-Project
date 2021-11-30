@@ -20,6 +20,6 @@ The model prediction was enhanced via:
 - Figures: Containing some png's that were plotted of the notebook
 - King_County_House_prices_dataset.csv: Underlying dataset
 - King County House Sales #1 DS Project.ipynb: Jupyter Notebook File
-- King County House Price Predictions.pptx :. 
+- King County House Price Predictions.pptx :....... 
 ***
 
