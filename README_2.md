@@ -22,4 +22,3 @@ The model prediction was enhanced via:
 - King County House Sales #1 DS Project.ipynb: Jupyter Notebook File
 - King County House Price Predictions.pptx :....... 
 ***
-
